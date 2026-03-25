@@ -12,7 +12,20 @@ O sistema integra automação com IA:
 1. Google Forms → coleta de dados   
 2. Google Docs → modelo padrão da empresa   
 3. Gemini → geração automática do texto   
-4. Gmail → envio automático do e-mail   --- 
+4. Gmail → envio automático do e-mail   ---
+
+    ## ⚙️ Instalação e Configuração
+
+1. Criar um Google Forms com os campos necessários
+2. Criar um modelo padrão no Google Docs
+3. Criar um cenário no Make com os módulos:
+   - Google Forms (Watch Responses)
+   - Google Docs (Get Document)
+   - Google Gemini (Generate Content)
+   - Gmail (Send Email)
+4. Configurar as conexões entre os módulos
+5. Inserir o prompt no módulo Gemini
+6. Testar a automação com "Executar uma vez"
 ##      
 Passo a Passo de Uso 
 1. Preencha o formulário com as informações solicitadas   
