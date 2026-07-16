@@ -21,7 +21,7 @@ O sistema integra automação com IA:
 3. Criar um cenário no Make com os módulos:
    - Google Forms (Watch Responses)
    - Google Docs (Get Document)
-   - Google Gemini (Generate Responses)
+   - Google Gemini (Generate a Response)
    - Gmail (Send Email)
 4. Configurar as conexões entre os módulos
 5. Inserir o prompt no módulo Gemini
